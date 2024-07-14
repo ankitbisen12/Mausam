@@ -7,7 +7,7 @@ import { ToastContainer, toast } from "react-toastify";
 import 'react-toastify/dist/ReactToastify.css';
 
 const navigation = [
-  { name: "Source Code", href: "#" },
+  { name: "Source Code", href: "https://github.com/ankitbisen12/Mausam" },
   { name: "Portfolio", href: "https://ankit-ankitbisen12.vercel.app/" },
 ];
 
